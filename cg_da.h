@@ -1,4 +1,4 @@
-// cgda.h
+// cg_da.h
 
 #ifndef cgda_H
 #define cgda_H
